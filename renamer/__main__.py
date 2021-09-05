@@ -17,7 +17,7 @@ from pyromod import listen
 
 def main():
 
-    Renamer = Client("YB_RENAME_BOT",
+    Renamer = Client("RenamerNs",
                  bot_token=Config.BOT_TOKEN,
                  api_id=Config.API_ID,
                  api_hash=Config.API_HASH,
