@@ -81,7 +81,7 @@ login - (when password is given) to login to bot
 
 ## Dev 🧑‍💻
 <p align="middle">
-<img src="https://telegra.ph/file/02edc63667bee3ecb44a2.jpg" width="250" height="350"><br>
+<img src="https://telegra.ph/file/02edc63667bee3ecb44a2.jpg" width="350" height="350"><br>
 <img src="https://badgen.net/badge/Name/YUKAWA BAETS/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/ybdemochannel"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
