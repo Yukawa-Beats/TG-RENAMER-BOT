@@ -1,7 +1,7 @@
 {
     "name": "TG Renamer Bot",
     "description": "The Telegram file renamer bot based on Pyrogram.",
-    "logo": "https://telegra.ph/file/8324a0863fed98d4dfb6c.jpg",
+    "logo": "https://telegra.ph/file/62c68f648e03492ae04cd.jpg",
 
     "keywords": [
         "telegram",
@@ -10,10 +10,10 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/Ns-AnoNymouS/Renamer",
+    "repository": "https://github.com/Yukawa-Beats/TG-RENAMER-BOT",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/ybdemochannel",
+    "success_url": "https://t.me/YB_RENAME_BOT",
 
     "env": {
         "API_HASH": {
@@ -46,7 +46,7 @@
             "required": false
         },
         "OWNER_ID": {
-            "description": "Your Telegram user id, Get this from @FileStore_Nsbot."
+            "description": "Your Telegram user id "
         },
         "ENV": {
             "description": "Set it to anything to enable configuration by environment variables.",
