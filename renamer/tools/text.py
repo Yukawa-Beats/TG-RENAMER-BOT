@@ -22,7 +22,7 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [YB UPDATES](https://t.me/ybdemochannel)
+** Channel:** [YUKAWA BEATS](https://t.me/yukawabeats)
 
 ** Instagram :** [YUKAWA BEATS](https://instagram.com/yukawa_beats)
 
